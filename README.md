@@ -1,4 +1,4 @@
-<span style="font-size:30px;">Template Method Pattern</span> <br>
+<span style="font-size:30px;">〰️Template Method Pattern〰️</span> <br>
 O Template Method Pattern é um padrão de design comportamental que permite definir o esqueleto de um algoritmo em uma classe base, enquanto delega a implementação de certos passos desse algoritmo para subclasses. Essa abordagem facilita a reutilização de código e a extensibilidade, permitindo que as subclasses alterem ou estendam partes específicas do algoritmo sem modificar sua estrutura geral.
 <br>
 Estrutura do Padrão
